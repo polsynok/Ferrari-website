@@ -33,10 +33,18 @@ nav ul li a {
     font-weight: bold;
 }
 
+nav a:hover {
+    text-decoration: underline;
+}
+
 section {
     padding: 20px;
     margin: 20px;
     background-color: white;
+}
+
+.modelsImages{
+    margin: 20 0 0 50%;
 }
 
 footer {
